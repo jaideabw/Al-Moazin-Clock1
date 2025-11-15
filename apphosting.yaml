@@ -1,0 +1,11 @@
+runConfig:
+  runtime: nodejs20
+  cpu: 1
+  memory: 1Gi
+  concurrency: 100
+  maxInstances: 100
+  minInstances: 0
+
+env:
+  - variable: NODE_ENV
+    value: production

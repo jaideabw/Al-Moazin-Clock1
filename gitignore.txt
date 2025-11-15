@@ -1,0 +1,33 @@
+# Node.js modules
+node_modules/
+
+# Build folders
+dist/
+build/
+
+# Environment variables
+.env
+
+# Image files
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.bmp
+
+# Audio files (إذا تريد تجاهل بعض الصوتيات الكبيرة)
+*.mp3
+*.wav
+
+# Log and temporary files
+*.log
+*.tmp
+*.swp
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Next.js / React specific
+.next/
+out/
